@@ -24,6 +24,12 @@ Author:        Webstrot
 ------------------------------------------------------------------------------------------ */
 
 @media screen and (max-width: 991px) { 
+	#slide-22-layer-3{
+		margin-left: -0;
+	}
+	#slide-16-layer-3{
+		left: 0;
+	}
 
 	.kc-pricing-tables.kc-pricing-layout-2 {
 		margin-bottom: 30px;

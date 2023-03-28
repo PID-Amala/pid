@@ -57,6 +57,13 @@ a {
 .email{
 	color: #fff
 }
+#slide-22-layer-3{
+	margin-left: -128px;
+}
+#slide-16-layer-3{
+	position: relative;
+	right: 10px;
+}
 .form-control:focus,
 button:visited,
 button.active,
