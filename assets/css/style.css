@@ -102,6 +102,12 @@ h6 {
 .raleway {
 	font-family: 'Raleway', sans-serif;
 }
+.amalabtn{
+	background-color: #0134F1;
+}
+.amalabtn:hover{
+	background-color: #05F925;
+}
 .bold {
 	font-weight: 700;
 }
